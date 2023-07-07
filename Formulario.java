@@ -19,6 +19,13 @@ public class Formulario {
                 String nameform=textField1.getText();
                 String idform=textField2.getText();
                 String edadform=textField3.getText();
+
+            }
+        });
+        cargarButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
             }
         });
     }

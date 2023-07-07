@@ -9,6 +9,7 @@ public class Main {
         frame.setContentPane(new Formulario().getRootPanel());
         frame.setVisible(true);
 
+
         String filePath="datosform.dat";
 
 
